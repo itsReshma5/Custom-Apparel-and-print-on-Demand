@@ -1,4 +1,4 @@
-#Custom Apparel and Print-on-Demand – ETL & Business Intelligence Prototype
+Custom Apparel and Print-on-Demand – ETL & Business Intelligence Prototype
 This project demonstrates an end-to-end product development workflow for a custom apparel and print-on-demand business, focusing on ETL pipelines and business intelligence dashboards to enable data-driven decision-making.
 
 📊 Built using Alteryx for ETL and Power BI for visualization, this prototype simulates real-world analytics workflows in the retail supply chain.
